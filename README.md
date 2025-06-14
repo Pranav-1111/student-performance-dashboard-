@@ -30,6 +30,9 @@ Install dependencies using:
 ```bash
 pip install pandas matplotlib seaborn
 ```
+### Output Image :
+![Average Marks by Student]![image](https://github.com/user-attachments/assets/16ae532f-8d75-46b2-a198-05ea619e12dc)
+
 
 Enjoy exploring student performance! 🎓📈
 """
