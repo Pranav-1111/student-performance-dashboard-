@@ -33,6 +33,11 @@ pip install pandas matplotlib seaborn
 ### Output Image :
 ![Average Marks by Student]![image](https://github.com/user-attachments/assets/16ae532f-8d75-46b2-a198-05ea619e12dc)
 
+🤝 Contributing
+Pull requests are welcome! If you find a bug or want to improve something, open an issue first.
+
+📜 License
+MIT License © 2025 Pranav Bhatt
 
 Enjoy exploring student performance! 🎓📈
 """
